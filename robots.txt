@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emmanuelalabi131-crypto.github.io/EMMITTE-/sitemap.xml
